@@ -1,6 +1,8 @@
 MagSafeAndSound
 ===============
 
+**Note:** This branch contains changes that have not been through a test print.
+
 The MagSafe connector is a great improvement over traditional notebook power adapter connectors but has introduced a new problem, at least for me. When using my MacBook Air on my lap or on a soft surface like a comforter, the connector tends to get disconnected because it has no real support in the vertical direction due to the profile of the machine.
 
 To get around this issue, I designed and 3d-printed a dongle to go over the MagSafe connector and anchor it to the adjacent USB port. It should be noted though that while this solves the disconnecting issue, it does **put the cable and USB port at risk of damage** if the cord in yanked on or tripped over. 
